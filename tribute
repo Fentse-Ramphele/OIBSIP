@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Frida Kahlo Tribute</title>
+    <style>
+      h1 {
+        text-align: center;
+        margin: auto;
+        color: black;
+        font-style: inherit;
+      }
+      h2 {
+        text-align: center;
+        margin: auto;
+      }
+      h3 {
+        text-align: center;
+      }
+      img {
+        display: block;
+        margin: 0 auto;
+
+        overflow: clip;
+        border-radius: 4px;
+      }
+      p {
+        text-align: center;
+        font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+          sans-serif;
+        padding: 25px;
+        margin: auto;
+        border: 0;
+        outline: 0;
+        background: grey;
+        border-radius: 10px;
+      }
+      body {
+        outline: 0;
+        width: 500px;
+        height: 500px;
+        border-radius: 20px;
+        box-shadow: 15px;
+        background: white;
+        font-size: 20px;
+        cursor: pointer;
+        margin: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Frida Kahlo</h1>
+
+    <h2>1907-1957</h2>
+    <br />
+    <div id="img">
+      <img
+        src="https://images.squarespace-cdn.com/content/v1/603d…39/1619325508769-PE20YBHX47HL8JEFK199/Frida+Kahlo"
+        alt="Frida Kahlo"
+      />
+    </div>
+    <h3>
+      <strong> Biography</strong>
+    </h3>
+    <p>
+        Frida Kahlo, a visionary artist whose bold and unapologetic expression left an indelible mark on the world of art and beyond. Born on July 6, 1907, in Coyoacán, Mexico, Frida's life was a tapestry woven with both pain and passion, reflected vividly in her captivating works.
+
+        Her art, often characterized by its raw honesty and introspection, served as a mirror to her tumultuous life experiences. Through her iconic self-portraits, Frida bared her soul to the world, confronting themes of identity, suffering, and resilience with an unmatched intensity.
+        
+        Despite enduring debilitating physical and emotional pain due to a near-fatal bus accident in her youth and a turbulent marriage to fellow artist Diego Rivera, Frida found solace and strength in her art. With each stroke of her brush, she transformed her anguish into beauty, her turmoil into triumph.
+    </p>
+    <br />
+
+    <p>
+      For more info check out
+      <br />
+      <a href="https://en.wikipedia.org/wiki/Frida_Kahlo">wikipedia</a>
+      <br />
+      <a href="https://www.linkedin.com/in/ofentse-ramphele-644572247/">Coded by Ofentse Ramphele</a>
+    </p>
+  </body>
+</html>
